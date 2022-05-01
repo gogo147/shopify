@@ -1,0 +1,62 @@
+.Wrapper{
+    padding: 50px;
+    display: flex;
+}
+
+.ImageContainer{
+    flex: 1;
+}
+
+.Image{
+    width: 200px;
+}
+
+.InfoContainer{
+    flex: 1;
+    padding: 0px 50px;
+}
+
+.Title{
+    font-weight: 200;
+}
+
+.Price{
+    font-weight: 100;
+    font-size: 40px;
+}
+.AddContainer{
+  display: flex;
+  align-items: center;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.AmountContainer{
+  display: flex;
+  align-items: center;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.Amount{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  border: 1px solid lightgrey;
+  width: 30px;
+  height: 30px;
+  margin: 0px 5px;
+  cursor: pointer;
+}
+
+.Button{
+    border: 1px solid #b7ccc0;
+    padding: 15px;
+    cursor: pointer;
+    font-weight: 500;
+    background-color: #ffff;
+    color: #b7ccc0;
+}
+
+

@@ -1,0 +1,12 @@
+.Info{
+  flex: 3;
+}
+
+.Product{
+  display: flex;
+  justify-content: space-between;
+}
+
+.Image{
+  width: 200px;
+}
